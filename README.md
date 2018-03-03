@@ -13,6 +13,12 @@ The website exists no more but you can find a static archive at:
 [Extensions:Word2MediaWikiPlus](https://www.mediawiki.org/w/index.php?oldid=819184)
 
 
+To deploy this add-in you need to do the following:
+
+- Import the customized Office Ribbon "W2MWP_CustRib.exportedUI" in the Normal.dotm template
+- Copy all macros available in Word2MediaWikiPlus_Installer.doc to Normal.dotm
+- 
+
 ***
 # THIS IS WORK-IN-PROGRESS !!
 

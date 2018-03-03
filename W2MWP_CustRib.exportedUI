@@ -1,0 +1,16 @@
+<mso:cmd app="Word" dt="1" />
+<mso:customUI xmlns:x2="http://schemas.microsoft.com/office/2009/07/customui/macro"
+              xmlns:x1="PDFArchitect5WordPlugIn.Connect"
+			  xmlns:mso="http://schemas.microsoft.com/office/2009/07/customui">
+	<mso:ribbon>
+		<mso:qat/>
+		<mso:tabs>
+			<mso:tab id="mso_c1.80547A" label="W2MWP" insertBeforeQ="x1:PDF_PRODUCT_PDFTAB">
+				<mso:group id="mso_c2.80547A" label="Tools" autoScale="true">
+					<mso:button idQ="x2:Word2MediaWikiPlus_1_82815C" label="Convert" imageMso="FileStartWorkflow" onAction="Word2MediaWikiPlus" visible="true"/>
+					<mso:button idQ="x2:Word2MediaWikiPlus_Config_0_82815C" label="Config" imageMso="PropertySheet" onAction="Word2MediaWikiPlus_Config" visible="true"/>
+				</mso:group>
+			</mso:tab>
+		</mso:tabs>
+	</mso:ribbon>
+</mso:customUI>
